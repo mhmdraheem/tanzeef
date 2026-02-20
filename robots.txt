@@ -1,0 +1,6 @@
+# Robots.txt for Tanzeef.net
+User-agent: *
+Allow: /
+
+# Sitemap link helps Google find your structure
+Sitemap: https://tanzeef.net/sitemap.xml
